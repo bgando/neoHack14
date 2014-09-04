@@ -20,7 +20,6 @@
 | 9:00am  | Design sprint process                                                                                                                                                                                                                                                    | 7th floor |
 | 9:20am  | Mentor guides team through storyboarding and paper prototyping                                                                                                                                                                                                           | 7th floor |
 | 10:00am | 30min breakout Sessions:           | various                      |
-|---------|------------------------------------|------------------------------|
 |         | D3 with Aysegul Yonet              | 8th floor, bender            |
 |         | Adobe PhoneGap with Julee Burdekin | 6th floor, presentation area |
 |         | Firebase API with Jenny Tong       | 8th floor, presentation area |
