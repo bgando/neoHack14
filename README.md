@@ -3,11 +3,11 @@
 We are in for an exciting weekend!
 
 ## Contents
-[Schedule Day 1](#day1)
-[Schedule Day 2](#day2)
-[Maps](#maps)
-[Prizes](#prizes)
-[Rules](#rules)
+- [Schedule Day 1](#day1)
+- [Schedule Day 2](#day2)
+- [Maps](#maps)
+- [Prizes](#prizes)
+- [Rules](#rules)
 
 ## [Schedule Day 1](id:day1)
 
