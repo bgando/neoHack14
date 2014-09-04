@@ -31,8 +31,8 @@
 ##Map
 
 ### 6th floor
-![](http://placekitten.com/400/400)
+![](./images/6th_floor.png)
 ### 7th floor
-![](http://placekitten.com/400/400)
+![](./images/6th_floor.png)
 ### 8th floor
-![](http://placekitten.com/400/400)
+![](./images/6th_floor.png)
